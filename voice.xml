@@ -1,5 +1,5 @@
 <Response>
 <script/>
-<Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
-<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+<Say voice="alice">Hello Hoang toxic. go to bed now.</Say>
+<Play>file:///C:/Users/Admin/Desktop/Ngay-Chua-Giong-Bao-Bui-Lan-Huong.mp3</Play>
 </Response>
